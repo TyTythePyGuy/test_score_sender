@@ -1,0 +1,10 @@
+Hello, [parent]
+
+I'm [teacher] and I just wanted to email you to let you know that [student] has not taken their test yet.
+They will need to stay for tutorials on Tuesday or finish it in class.
+If you have any questions about it please let me know. I'm available at this email address or you
+can call the school to reach me during 8th period.
+
+Your Name
+Your School ??th Grade Subject
+youremail@email.com
